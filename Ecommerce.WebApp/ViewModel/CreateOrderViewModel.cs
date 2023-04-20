@@ -1,4 +1,4 @@
-﻿namespace Ecommerce.Data.ViewModel
+﻿namespace Ecommerce.WebApp.ViewModel
 {
     public class CreateOrderViewModel
     {

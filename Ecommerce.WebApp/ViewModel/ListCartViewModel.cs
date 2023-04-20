@@ -1,4 +1,4 @@
-﻿namespace Ecommerce.Data.ViewModel
+﻿namespace Ecommerce.WebApp.ViewModel
 {
     public class ListCartViewModel
     {
@@ -8,7 +8,7 @@
         public string ProductName { set; get; }
         public decimal? CartPrice { set; get; }
         public int CartQuantity { set; get; }
-        public int CartTotal{ set; get; }
+        public int CartTotal { set; get; }
         public decimal? CartId { set; get; }
     }
 }

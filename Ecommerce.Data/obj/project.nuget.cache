@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cI91MmNHjBPfCp42/2B5rRiuqBhPYviWJqKtF1Fe1B3gb3Z8vAMI0x0ns1+FBz8Zqf1tP07AixdatkdCLHJg/g==",
+  "dgSpecHash": "w+XGhS8LErc6Cvjx0fkFj/ztB9AuVR7l0cjN4asMxM2ReyxUADP+G6amqYWaDbeBKLexOhhb+iq6CfieOSfs8g==",
   "success": true,
-  "projectFilePath": "D:\\WEB\\Website ban hang UEF\\Ecommerce.Data\\Ecommerce.Data.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\FinalProjectWEB\\Ecommerce.Data\\Ecommerce.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

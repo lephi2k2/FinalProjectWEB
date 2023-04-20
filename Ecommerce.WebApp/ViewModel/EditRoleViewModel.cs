@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Ecommerce.Data.ViewModel
+namespace Ecommerce.WebApp.ViewModel
 {
     public class EditRoleViewModel
     {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w45hvIzD0bmS1nidKzKsrJchfTz30aisQpR7e8ZbP/0OdWDEpSXZONbLDjt/Gk5cIxvRXK1cnFl4EqgoWwll+Q==",
+  "dgSpecHash": "xTeTeuAzGXOoIhe99dmPOOlrAgVGx0M0ROrI7ofNy+RC5ssvbnJmP2EVFkXfvS402mJjI14r31/is9zvLxU5iA==",
   "success": true,
-  "projectFilePath": "D:\\WEB\\Website ban hang UEF\\Ecommerce.Common\\Ecommerce.Common.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\FinalProjectWEB\\Ecommerce.Common\\Ecommerce.Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.15\\microsoft.aspnetcore.http.features.5.0.15.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\6.0.0\\microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",

@@ -1,6 +1,6 @@
 ﻿using Ecommerce.Data.Entities;
 
-namespace Ecommerce.Data.ViewModel
+namespace Ecommerce.WebApp.ViewModel
 {
     public class ListOrdersViewModel
     {

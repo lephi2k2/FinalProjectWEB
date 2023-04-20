@@ -65,9 +65,9 @@ namespace Ecommerce.Data.Extensions
 
             modelBuilder.Entity<Category>().HasData(
                new Category() { Id = 1, Name = "Khuyến mãi sốc", Slug = "khuyen-mai-soc", ParentId = null},
-               new Category() { Id = 2, Name = "Thời trang nam", Slug = "thoi-trang-nam", ParentId = null},
-               new Category() { Id = 3, Name = "Thời trang nữ", Slug = "thoi-trang-nu", ParentId = null},
-               new Category() { Id = 4, Name = "Kính mắt thời trang", Slug = "kinh-mat-thoi-trang"},
+               new Category() { Id = 2, Name = "iphone", Slug = "iphone", ParentId = null},
+               new Category() { Id = 3, Name = "oppo", Slug = "o-p-p-o", ParentId = null},
+               new Category() { Id = 4, Name = "samsung", Slug = "sam-sung"},
                new Category() { Id = 5, Name = "Phụ kiện hot", Slug = "phu-kien-hot", ParentId = null}
            );
 

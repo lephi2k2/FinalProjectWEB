@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 
-namespace Ecommerce.Data.ViewModel
+namespace Ecommerce.WebApp.ViewModel
 {
     public class CreateProductViewModel
     {

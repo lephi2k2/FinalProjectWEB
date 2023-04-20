@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WEB\\Website ban hang UEF\\Ecommerce.Common\\Ecommerce.Common.csproj": {}
+    "C:\\Users\\PC\\Documents\\GitHub\\FinalProjectWEB\\Ecommerce.Common\\Ecommerce.Common.csproj": {}
   },
   "projects": {
-    "D:\\WEB\\Website ban hang UEF\\Ecommerce.Common\\Ecommerce.Common.csproj": {
+    "C:\\Users\\PC\\Documents\\GitHub\\FinalProjectWEB\\Ecommerce.Common\\Ecommerce.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WEB\\Website ban hang UEF\\Ecommerce.Common\\Ecommerce.Common.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Documents\\GitHub\\FinalProjectWEB\\Ecommerce.Common\\Ecommerce.Common.csproj",
         "projectName": "Ecommerce.Common",
-        "projectPath": "D:\\WEB\\Website ban hang UEF\\Ecommerce.Common\\Ecommerce.Common.csproj",
+        "projectPath": "C:\\Users\\PC\\Documents\\GitHub\\FinalProjectWEB\\Ecommerce.Common\\Ecommerce.Common.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "D:\\WEB\\Website ban hang UEF\\Ecommerce.Common\\obj\\",
+        "outputPath": "C:\\Users\\PC\\Documents\\GitHub\\FinalProjectWEB\\Ecommerce.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

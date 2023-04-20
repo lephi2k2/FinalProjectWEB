@@ -2647,11 +2647,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WEB\\Website ban hang UEF\\Ecommerce.Data\\Ecommerce.Data.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Documents\\GitHub\\FinalProjectWEB\\Ecommerce.Data\\Ecommerce.Data.csproj",
       "projectName": "Ecommerce.Data",
-      "projectPath": "D:\\WEB\\Website ban hang UEF\\Ecommerce.Data\\Ecommerce.Data.csproj",
+      "projectPath": "C:\\Users\\PC\\Documents\\GitHub\\FinalProjectWEB\\Ecommerce.Data\\Ecommerce.Data.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "D:\\WEB\\Website ban hang UEF\\Ecommerce.Data\\obj\\",
+      "outputPath": "C:\\Users\\PC\\Documents\\GitHub\\FinalProjectWEB\\Ecommerce.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
